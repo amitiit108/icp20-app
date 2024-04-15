@@ -1,1 +1,1 @@
-# icp20-app
+# SUSHI
